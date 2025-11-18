@@ -12,3 +12,4 @@ C:\Users\User\Documents\Learn-cs\obj\Debug\net9.0\refint\Learn-cs.dll
 C:\Users\User\Documents\Learn-cs\obj\Debug\net9.0\Learn-cs.pdb
 C:\Users\User\Documents\Learn-cs\obj\Debug\net9.0\Learn-cs.genruntimeconfig.cache
 C:\Users\User\Documents\Learn-cs\obj\Debug\net9.0\ref\Learn-cs.dll
+C:\Users\User\Documents\Learn-cs\obj\Debug\net9.0\Learn-cs.sourcelink.json
