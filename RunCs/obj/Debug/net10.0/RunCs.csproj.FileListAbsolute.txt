@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Learn-cs\RunCs\bin\Debug\net10.0\RunCs.exe
+C:\Users\User\Documents\Learn-cs\RunCs\bin\Debug\net10.0\RunCs.deps.json
+C:\Users\User\Documents\Learn-cs\RunCs\bin\Debug\net10.0\RunCs.runtimeconfig.json
+C:\Users\User\Documents\Learn-cs\RunCs\bin\Debug\net10.0\RunCs.dll
+C:\Users\User\Documents\Learn-cs\RunCs\bin\Debug\net10.0\RunCs.pdb
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.AssemblyInfo.cs
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.sourcelink.json
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.dll
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\refint\RunCs.dll
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.pdb
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\RunCs.genruntimeconfig.cache
+C:\Users\User\Documents\Learn-cs\RunCs\obj\Debug\net10.0\ref\RunCs.dll
